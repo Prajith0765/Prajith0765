@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Prajith Computer Science Student
 
 <!--
 **Prajith0765/Prajith0765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
