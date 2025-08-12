@@ -2,6 +2,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231D9BF0?style=flat&logo=twitter&logoColor=%23FFFFFF&labelColor=%231D9BF0&link=https%3A%2F%2Ftwitter.com%2Fprajith)](https://twitter.com/Prajith1624367)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%23E1306C)](https://www.instagram.com/prajith9344/?next=%2F&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=%23FFFFFF&labelColor=%230077B5)](https://www.linkedin.com/in/prajith-p-0765s2873/)
+[![Trailhead](https://img.shields.io/badge/Trailhead-2BAE66?style=flat&logo=salesforce&logoColor=%23FFFFFF&labelColor=%232BAE66&link=https%3A%2F%2Fwww.salesforce.com%2Ftrailblazer%2Fi1v4u4nqgxm5iek41n)](https://www.salesforce.com/trailblazer/i1v4u4nqgxm5iek41n)
+
 
 ### My Stats 🔥
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Prajith_0765?ext=activity)
